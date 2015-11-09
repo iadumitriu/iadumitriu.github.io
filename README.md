@@ -1,2 +1,2 @@
 # Personal website
-<http://lucaluca.github.io>
+[Alex Dumitriu](http://iadumitriu.github.io)
