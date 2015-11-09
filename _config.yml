@@ -8,15 +8,14 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            'Jonathan Giuffrida'
-tagline:          'Adventures in Data Analysis and Bunnies'
-description:      'I live at the intersection of quantitative analysis, healthcare, urban policy, and humanistic learning.'
-url:              https://lucaluca.github.io
-enforce_ssl:      lucaluca.github.io
+title:            'Alex Dumitriu'
+tagline:          'Adventures in Public Policy and Bunnies'
+description:      ''
+url:              http://iadumitriu.github.io
 baseurl:          /
 author:
-  name:           'Jonathan Giuffrida'
-  url:            https://lucaluca.github.io
+  name:           'Alex Dumitriu'
+  url:            http://iadumitriu.github.io
 
 paginate:         5  # 5 posts per page
 paginate_path:    '/projects/page:num/'
@@ -25,4 +24,4 @@ paginate_path:    '/projects/page:num/'
 version:          0.1
 
 github:
-  repo:           https://github.com/lucaluca/lucaluca.github.io
+  repo:           https://github.com/iadumitriu/iadumitriu.github.io
